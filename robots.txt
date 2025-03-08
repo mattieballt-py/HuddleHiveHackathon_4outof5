@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /dashboard/
+Disallow: /manage/
+Disallow: /workspace/
+
+Sitemap: https://hackathonparty.com/sitemap.xml
